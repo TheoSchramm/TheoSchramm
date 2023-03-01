@@ -47,7 +47,7 @@
  <div align="center">
   <h2>🐍 Python eating my contribution 🐍</h2>
   <br>
-  <img alt="python eating my contribution" src="https://github.com/TheoSchramm/TheoSchramm/blob/output/github-contribution-grid-snake.svg">
+  <img alt="python eating my contribution" src="https://github.com/TheoSchramm/TheoSchramm/blob/main/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
