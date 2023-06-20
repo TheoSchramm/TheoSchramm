@@ -1,8 +1,8 @@
 ## Hello World! I'am Théo Schramm
 
 - 📚 Currently studying in Instituto Federal Farroupilha.
-- 🚀 Aiming to become a better person.
-- 💡 Small acts of kindness can create big impacts in the world.
+- 🧘‍♂️ Aiming to become a better being.
+- 🕳️ Don't you dare go hollow.
 - 👨‍💻 Coding is my passion.
 <br>
 
