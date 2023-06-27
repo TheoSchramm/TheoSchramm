@@ -12,26 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoSchramm&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <br>  
-  
-## Main Stacks
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
-  
-  <img alt="Flask" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img alt="Django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-</div>
-<br>
-
-## Learning
-
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;"><br>
-
-  <img alt="SQLite" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-
-</div>
-<br>
-  
 ## Contact Me
  <br>  
  <div> 
