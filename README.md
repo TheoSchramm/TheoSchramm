@@ -1,8 +1,7 @@
 ## Hello World! I'am Théo Schramm
 
 - 📚 Currently studying in Instituto Federal Farroupilha.
-- 🧘‍♂️ Aiming to become a better being.
-- 🕳️ Don't you dare go hollow.
+- 🧘‍♂️ ~Do you see how infinite you are?
 - 👨‍💻 Coding is my passion.
 <br>
 
